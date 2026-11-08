@@ -1,0 +1,1 @@
+# obsidian_web_clipper_template
